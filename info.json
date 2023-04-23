@@ -1,0 +1,162 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "http://demo.demohuo.top/modals/30/3087/demo/",
+            "path": "index.html",
+            "saved": true,
+            "size": 3644,
+            "children": [
+                {
+                    "url": "http://demo.demohuo.top/modals/30/3087/demo/img/logo.png",
+                    "path": "img/logo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.demohuo.top/modals/30/3087/demo/js/vendors.js",
+                    "path": "js/vendors.js",
+                    "saved": true,
+                    "size": 98521,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.demohuo.top/modals/30/3087/demo/js/index.js",
+                    "path": "js/index.js",
+                    "saved": true,
+                    "size": 22371,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.demohuo.top/modals/30/3087/demo/css/style.css",
+                    "path": "css/style.css",
+                    "saved": true,
+                    "size": 10641,
+                    "children": [
+                        {
+                            "url": "http://demo.demohuo.top/modals/30/3087/demo/img/page1_bg.jpg?v=e0cf3019042982b9f77845806f575682",
+                            "path": "img/page1_bg.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://demo.demohuo.top/modals/30/3087/demo/img/light_2.png?v=242c3c618a2ad541082733414997ef2a",
+                            "path": "img/light_2.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://demo.demohuo.top/modals/30/3087/demo/img/light_1.png?v=7c3e5e2e124547afaee7fcaaff70bd57",
+                            "path": "img/light_1.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://demo.demohuo.top/modals/30/3087/demo/img/light_3.png?v=e6f2a0b5f72f53e91796633bd94794e3",
+                            "path": "img/light_3.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://demo.demohuo.top/modals/30/3087/demo/img/light_4.png?v=6e531d6fa8a77d81ac30c0db5a31e828",
+                            "path": "img/light_4.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://demo.demohuo.top/modals/30/3087/demo/img/page3_bg.jpg?v=5c3d36e0fef268ebd524ae0dcb2c56f7",
+                            "path": "img/page3_bg.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://demo.demohuo.top/modals/30/3087/demo/img/star.png?v=8832ec2224c70d23f526dab0c25f42eb",
+                            "path": "img/star.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://demo.demohuo.top/modals/30/3087/demo/img/btn_spr.png?v=161c5cde5cca472566aee1331226a3ad",
+                            "path": "img/btn_spr.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "http://demo.demohuo.top/favicon.ico",
+                    "saved": false
+                }
+            ]
+        }
+    ],
+    "alias": "demo-demohuo-top-fjpvuc0k",
+    "info": {
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "http://demo.demohuo.top/modals/30/3087/demo/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "redirects": [],
+            "responseUrl": "http://demo.demohuo.top/modals/30/3087/demo/",
+            "statusCode": 200,
+            "headers": {
+                "date": "Mon, 07 Mar 2022 13:44:24 GMT",
+                "content-type": "text/html",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "set-cookie": [
+                    "http_waf_cookie=55c582a8-2b48-4e00fab7ae869e58b5d552f3abec5e9d85ad; Expires=1646667864; Path=/; HttpOnly"
+                ],
+                "last-modified": "Sun, 12 Nov 2017 13:52:59 GMT",
+                "vary": "Accept-Encoding",
+                "etag": "W/\"5a08523b-100a\"",
+                "x-request-id": "3b5a66f009085478d680626b19cd3ee7",
+                "server": "WAF/2.4-12.1"
+            }
+        },
+        "time": {
+            "start": "2022-03-07T13:44:23.580Z",
+            "end": "2022-03-07T13:44:45.390Z"
+        },
+        "remark": [],
+        "title": "高仿 -- AMD9 : 精彩,一下就有",
+        "ip": "216.177.129.193",
+        "url": "http://demo.demohuo.top/modals/30/3087/demo/",
+        "main": "index.html",
+        "domain": "demo.demohuo.top",
+        "origin": "http://demo.demohuo.top",
+        "totalSize": "135 kB"
+    },
+    "options": {
+        "formatter": [],
+        "url": "http://demo.demohuo.top/modals/30/3087/demo/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "filenameGenerator": "byType"
+    }
+}

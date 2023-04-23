@@ -1,0 +1,401 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>登录 -  深影论坛 -  Powered by Discuz!</title>
+
+<script type="text/javascript">
+	(function(){
+	    _fmOpt = {
+	        partner: 'syzimuzu_com',
+	        appName: 'syzimuzu_com_web',
+	        token: 'cv2kbboh43og11pjaj12ni05v6'
+	    };
+	    var cimg = new Image(1,1);
+	    cimg.onload = function() {
+	        _fmOpt.imgLoaded = true;
+	    };
+	    cimg.src = "https://fp.fraudmetrix.cn/fp/clear.png?partnerCode=syzimuzu_com&appName=syzimuzu_com_web&tokenId=" + _fmOpt.token;
+	    var fm = document.createElement('script'); fm.type = 'text/javascript'; fm.async = true;
+	    fm.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'static.fraudmetrix.cn/fm.js?ver=0.1&t=' + (new Date().getTime()/3600000).toFixed(0);
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(fm, s);
+	})();
+	</script>
+<meta name="keywords" content="" />
+<meta name="description" content=",深影论坛" />
+<meta name="generator" content="Discuz! X3.2" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2013 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="https://forum.shinybbs.vip/" /><link rel="stylesheet" type="text/css" href="data/cache/style_25_common.css?Z0k" /><link rel="stylesheet" type="text/css" href="data/cache/style_25_member_logging.css?Z0k" /><script type="text/javascript">var STYLEID = '25', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'Z0k', charset = 'gbk', discuz_uid = '0', cookiepre = 's8XA_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'login|newthread|usergroups', creditnotice = '1|深影会劵|个,2|深影魔盒|支,3|深币|枚,4|贡献|', defaultstyle = '', REPORTURL = 'aHR0cDovL2ZvcnVtLnNoaW55YmJzLnZpcC9tZW1iZXIucGhwP21vZD1sb2dnaW5nJmFjdGlvbj1sb2dpbiZyZWZlcmVyPWh0dHBzJTNBJTJGJTJGZm9ydW0uc2hpbnliYnMudmlwJTJGaW5kZXgucGhwJTNGZnJvbXVpZCUzRDEwMDA3NTg=', SITEURL = 'https://forum.shinybbs.vip/', JSPATH = 'data/cache/', CSSPATH = 'data/cache/style_', DYNAMICURL = '';</script>
+<script src="data/cache/common.js?Z0k" type="text/javascript"></script>
+<meta name="application-name" content="深影论坛" />
+<meta name="msapplication-tooltip" content="深影论坛" />
+<meta name="msapplication-task" content="name=论坛;action-uri=https://forum.shinybbs.vip/forum.php;icon-uri=https://forum.shinybbs.vip/static/image/common/bbs.ico" />
+
+<style>
+</style>
+
+</head>
+
+<body id="nv_member" class="pg_logging" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div id="toptb" class="cl">
+<div class="wp">
+<div class="z"><a href="javascript:;"  onclick="setHomepage('https://forum.shinybbs.vip/');">设为首页</a><a href="https://forum.shinybbs.vip/"  onclick="addFavorite(this.href, '深影论坛');return false;">收藏本站</a><a href="https://forum.shinybbs.vip/home.php?mod=task" >任务</a><a href="https://forum.shinybbs.vip/home.php?mod=space&do=thread&view=me" >帖子</a><a href="https://forum.shinybbs.vip/home.php?mod=magic" >道具</a><a href="https://forum.shinybbs.vip/home.php?mod=space&do=favorite&view=me" >收藏</a></div>
+<div class="y">
+
+<a id="switchblind" href="javascript:;" onclick="toggleBlind(this)" title="开启辅助访问" class="switchblind">开启辅助访问</a>
+<a href="javascript:;" id="switchwidth" onclick="widthauto(this)" title="切换到宽版" class="switchwidth">切换到宽版</a>
+
+<a style="" href="member.php?mod=logging&amp;action=login&amp;referer=" onclick="showWindow('login', this.href);return false;" title="登录 Login"><strong>登录</strong> </a>
+<a class="xi2 xw1" href="member.php?mod=reg" ><strong>新用户注册</strong></a>
+<a href="connect.php?mod=login&amp;op=init&amp;referer=index.php&amp;statfrom=login_simple" id="qqdeng" onmouseover="showMenu({'ctrlid':'qqdeng','pos':'34!','ctrlclass':'a','duration':2});">
+      <img src="template/ais56_com_siyecao/ais56/denglu.gif" class="" style="margin-top:3px;" alt="QQ登录">
+    </a>
+<div id="qqdeng_menu" style="display:none">
+
+
+<div class="fastlg_fm y" style="margin-right: 10px; padding-right: 10px">
+<p><a href="https://forum.shinybbs.vip/connect.php?mod=login&op=init&referer=https%3A%2F%2Fforum.shinybbs.vip%2Findex.php%3Ffromuid%3D1000758&statfrom=login_simple"><img src="static/image/common/qq_login.gif" class="vm" alt="QQ登录" /></a></p>
+<p class="hm xg1" style="padding-top: 2px;">只需一步，快速开始</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div id="qmenu_menu" class="p_pop blk" style="display: none;">
+<div class="ptm pbw hm">
+请 <a href="javascript:;" class="xi2" onclick="lsSubmit()"><strong>登录</strong></a> 后使用快捷导航<br />没有帐号？<a href="member.php?mod=reg" class="xi2 xw1">新用户注册</a>
+</div>
+</div><div id="hd">
+<div class="wp">
+<div class="hdc cl"><h2><a href="https://forum.shinybbs.vip/" title="深影论坛"><img src="template/ais56_com_siyecao/ais56/logo.png" alt="深影论坛" border="0" /></a></h2>
+
+</div>
+
+<div id="nv">
+<ul><li id="mn_forum" ><a href="https://forum.shinybbs.vip/forum.php" hidefocus="true" title="BBS"  >论坛<span>BBS</span></a></li><li id="mn_N12a7" ><a href="misc.php?mod=ranklist" hidefocus="true" title="Ranklist"  >排行榜<span>Ranklist</span></a></li><li id="mn_N6a88" ><a href="http://weibo.com/syfansub" hidefocus="true" target="_blank"  >ShinY字幕组微博</a></li><li id="mn_N4080" ><a href="http://weibo.com/shinynews" hidefocus="true"  >ShinY新闻组微博</a></li></ul>
+</div>
+<div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div><div id="mu" class="cl">
+</div><div id="diy-tg_menu" style="display: none;">
+<ul>
+<li><a href="javascript:saveUserdata('diy_advance_mode', '');openDiy();" class="xi2">简洁模式</a></li>
+<li><a href="javascript:saveUserdata('diy_advance_mode', '1');openDiy();" class="xi2">高级模式</a></li>
+</ul>
+</div>
+<ul id="umnav_menu" class="p_pop nav_pop " style="display: none;">
+
+
+<script src="source/plugin/gsignin/js/jquery-1.11.1.js" type="text/javascript" type="text/javascript" charset="utf-8"></script>
+<link rel="stylesheet" type="text/css" href="source/plugin/gsignin/css/calendar.css"/>
+<style type="text/css">
+<!--
+#calendar_bg_class {
+background: url(../img/calendar_bg.png) ;
+position: absolute;
+top: 30px;
+right: -50px;
+z-index: 100;
+}
+
+-->
+</style>
+<script type="text/javascript" charset="utf-8">
+var jq = jQuery.noConflict();
+</script>
+<script type="text/javascript" charset="utf-8" reload="1">	
+function showCalendarClass() {
+ajaxget('plugin.php?id=gsignin:index&action=calendar&class=_class','calendar_bg_class');
+jq("#calendar_bg_class").stop();
+jq("#calendar_bg_class").css('display','');
+jq("#calendar_bg_class").css('opacity','1');
+}
+function shopHideCalendarClass() {
+jq("#calendar_bg_class").stop();
+jq("#calendar_bg_class").css('opacity','1');
+jq("#calendar_bg_class").css('display','')
+}
+function hideCalendarClass() {
+jq("#calendar_bg_class").stop();
+jq("#calendar_bg_class").animate({
+opacity:'0'
+}, 600,function() {jq("#calendar_bg_class").css('display','none');});
+}	
+</script>
+<iframe style="visibility:hidden;display:none" id="signin_card" name="signin_card" width="1" height="1" ></iframe>
+
+<a  href="plugin.php?id=gsignin:index" style="display:block;float:right;margin:3px; width:77px; height:22px; background:url(source/plugin/gsignin/img/signin_no.png) no-repeat center center;" ></a>
+
+<li><a href="https://forum.shinybbs.vip/home.php?mod=spacecp">设置</a></li>
+<li><a href="member.php?mod=logging&amp;action=logout&amp;formhash=5a3122a8">退出</a></li>
+</ul>
+</div>
+</div>
+
+
+<div  class="ais56t"><div  class="ais56tz"></div><div  class="ais56tc"><div id="scbar" class="cl">
+<form id="scbar_form" method="get" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="http://zhannei.baidu.com/cse/search" target="_blank">
+<input type="hidden" name="s" value="10886843873236087874">
+<input type="hidden" name="ie" value="gbk">
+<input type="hidden" id="bdcsMain" />
+<input type="hidden" name="mod" id="scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="5a3122a8" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="0" />
+<input type="hidden" name="srhlocality" value="member::logging" />
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="scbar_icon_td"></td>
+<td class="scbar_txt_td"><input type="text" name="q" id="scbar_txt" value="请输入搜索内容" autocomplete="off" x-webkit-speech speech /></td>
+<td class="scbar_type_td"><a href="javascript:;" id="scbar_type" class="xg1" onclick="showMenu(this.id)" hidefocus="true">搜索</a></td>
+<td class="scbar_btn_td"><button type="submit" name="searchsubmit" id="scbar_btn" sc="1" class="pn pnc" value="true"><strong class="xi2">搜索</strong></button></td>
+<td class="scbar_hot_td">
+<div id="scbar_hot">
+<strong class="xw1">热搜: </strong>
+
+<a href="search.php?mod=forum&amp;srchtxt=%D7%EE%D0%C2%C3%C0%BE%E7&amp;formhash=5a3122a8&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">最新美剧</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%D7%EE%D0%C2%B5%E7%D3%B0&amp;formhash=5a3122a8&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">最新电影</a>
+
+</div>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<script type="text/javascript">(function(){document.write(unescape('%3Cdiv id="bdcs"%3E%3C/div%3E'));var bdcs = document.createElement('script');bdcs.type = 'text/javascript';bdcs.async = true;bdcs.src = 'http://znsv.baidu.com/customer_search/api/js?sid=10886843873236087874' + '&plate_url=' + encodeURIComponent(window.location.href) + '&t=' + Math.ceil(new Date()/3600000);var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(bdcs, s);})();</script>
+<ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="user">用户</a></li></ul>
+<script type="text/javascript">
+initSearchmenu('scbar', '');
+</script>
+</div><div  class="ais56ty"></div></div>
+<div  class="ais56wp cl"><div  class="ais56wpz"></div><div  class="ais56wpc">
+<div id="wp" class="wp">
+<div id="ct" class="ptm wp w cl">
+<div class="nfl" id="main_succeed" style="display: none">
+<div class="f_c altw">
+<div class="alert_right">
+<p id="succeedmessage"></p>
+<p id="succeedlocation" class="alert_btnleft"></p>
+<p class="alert_btnleft"><a id="succeedmessage_href">如果您的浏览器没有自动跳转，请点击此链接</a></p>
+</div>
+</div>
+</div>
+<div class="mn" id="main_message">
+<div class="bm">
+<div class="bm_h bbs">
+<span class="y">
+<a href="member.php?mod=reg" class="xi2">没有帐号？<a href="member.php?mod=reg">新用户注册</a></a>
+</span>
+<h3 class="xs2">登录</h3>
+</div>
+<div>
+
+<div id="main_messaqge_LkdBf">
+<div id="layer_login_LkdBf">
+<h3 class="flb">
+<em id="returnmessage_LkdBf">
+</em>
+<span></span>
+</h3>
+<form method="post" autocomplete="off" name="login" id="loginform_LkdBf" class="cl" onsubmit="pwmd5('password3_LkdBf');pwdclear = 1;ajaxpost('loginform_LkdBf', 'returnmessage_LkdBf', 'returnmessage_LkdBf', 'onerror');return false;" action="member.php?mod=logging&amp;action=login&amp;loginsubmit=yes&amp;loginhash=LkdBf">
+<div class="c cl">
+<input type="hidden" name="formhash" value="5a3122a8" />
+<input type="hidden" name="referer" value="https://forum.shinybbs.vip/index.php?fromuid=1000758" />
+<div class="rfm">
+<table>
+<tr>
+<th>
+<span class="login_slct">
+<select name="loginfield" style="float: left;" width="45" id="loginfield_LkdBf">
+<option value="username">用户名</option>
+<option value="email">Email</option>
+</select>
+</span>
+</th>
+<td><input type="text" name="username" id="username_LkdBf" autocomplete="off" size="30" class="px p_fre" tabindex="1" value="" /></td>
+<td class="tipcol"><a href="member.php?mod=reg">新用户注册</a></td>
+</tr>
+</table>
+</div>
+<div class="rfm">
+<table>
+<tr>
+<th><label for="password3_LkdBf">密码:</label></th>
+<td><input type="password" id="password3_LkdBf" name="password" onfocus="clearpwd()" size="30" class="px p_fre" tabindex="1" /></td>
+<td class="tipcol"><a href="javascript:;" onclick="display('layer_login_LkdBf');display('layer_lostpw_LkdBf');" title="找回密码">找回密码</a></td>
+</tr>
+</table>
+</div>
+<div class="rfm">
+<table>
+<tr>
+<th>安全提问:</th>
+<td><select id="loginquestionid_LkdBf" width="213" name="questionid" onchange="if($('loginquestionid_LkdBf').value > 0) {$('loginanswer_row_LkdBf').style.display='';} else {$('loginanswer_row_LkdBf').style.display='none';}">
+<option value="0">安全提问(未设置请忽略)</option>
+<option value="1">母亲的名字</option>
+<option value="2">爷爷的名字</option>
+<option value="3">父亲出生的城市</option>
+<option value="4">您其中一位老师的名字</option>
+<option value="5">您个人计算机的型号</option>
+<option value="6">您最喜欢的餐馆名称</option>
+<option value="7">驾驶执照最后四位数字</option>
+</select></td>
+</tr>
+</table>
+</div>
+<div class="rfm" id="loginanswer_row_LkdBf"  style="display:none">
+<table>
+<tr>
+<th>答案:</th>
+<td><input type="text" name="answer" id="loginanswer_LkdBf" autocomplete="off" size="30" class="px p_fre" tabindex="1" /></td>
+</tr>
+</table>
+</div>
+
+
+<div class="rfm ">
+<table>
+<tr>
+<th></th>
+<td><label for="cookietime_LkdBf"><input type="checkbox" class="pc" name="cookietime" id="cookietime_LkdBf" tabindex="1" value="2592000"  />自动登录</label></td>
+</tr>
+</table>
+</div>
+
+<div class="rfm mbw bw0">
+<table width="100%">
+<tr>
+<th>&nbsp;</th>
+<td>
+<button class="pn pnc" type="submit" name="loginsubmit" value="true" tabindex="1"><strong>登录</strong></button>
+</td>
+<td>
+<a href="javascript:;" onclick="ajaxget('member.php?mod=clearcookies&formhash=5a3122a8', 'returnmessage_LkdBf', 'returnmessage_LkdBf');return false;" title="清除痕迹" class="y">清除痕迹</a></td>
+</tr>
+</table>
+</div>
+
+<div class="rfm bw0  mbw">
+<hr class="l" />
+<table>
+<tr>
+<th>快捷登录:</th>
+<td>
+
+<a href="https://forum.shinybbs.vip/connect.php?mod=login&op=init&referer=https%3A%2F%2Fforum.shinybbs.vip%2Findex.php%3Ffromuid%3D1000758&statfrom=login" target="_top" rel="nofollow"><img src="static/image/common/qq_login.gif" class="vm" /></a>
+
+</td>
+</tr>
+</table>
+</div>
+</div>
+</form>
+</div>
+<script src="data/cache/md5.js?Z0k" type="text/javascript" reload="1"></script>
+<div id="layer_lostpw_LkdBf" style="display: none;">
+<h3 class="flb">
+<em id="returnmessage3_LkdBf">找回密码</em>
+<span></span>
+</h3>
+<form method="post" autocomplete="off" id="lostpwform_LkdBf" class="cl" onsubmit="ajaxpost('lostpwform_LkdBf', 'returnmessage3_LkdBf', 'returnmessage3_LkdBf', 'onerror');return false;" action="member.php?mod=lostpasswd&amp;lostpwsubmit=yes&amp;infloat=yes">
+<div class="c cl">
+<input type="hidden" name="formhash" value="5a3122a8" />
+<input type="hidden" name="handlekey" value="lostpwform" />
+<div class="rfm">
+<table>
+<tr>
+<th><span class="rq">*</span><label for="lostpw_email">Email:</label></th>
+<td><input type="text" name="email" id="lostpw_email" size="30" value=""  tabindex="1" class="px p_fre" /></td>
+</tr>
+</table>
+</div>
+<div class="rfm">
+<table>
+<tr>
+<th><label for="lostpw_username">用户名:</label></th>
+<td><input type="text" name="username" id="lostpw_username" size="30" value=""  tabindex="1" class="px p_fre" /></td>
+</tr>
+</table>
+</div>
+
+<div class="rfm mbw bw0">
+<table>
+<tr>
+<th></th>
+<td><button class="pn pnc" type="submit" name="lostpwsubmit" value="true" tabindex="100"><span>提交</span></button></td>
+</tr>
+</table>
+</div>
+</div>
+</form>
+</div>
+</div>
+
+<div id="layer_message_LkdBf" class="f_c blr nfl" style="display: none;">
+<h3 class="flb" id="layer_header_LkdBf">
+</h3>
+<div class="c"><div class="alert_right">
+<div id="messageleft_LkdBf"></div>
+<p class="alert_btnleft" id="messageright_LkdBf"></p>
+</div>
+</div>
+
+<script type="text/javascript" reload="1">
+var pwdclear = 0;
+function initinput_login() {
+document.body.focus();
+if($('loginform_LkdBf')) {
+$('loginform_LkdBf').username.focus();
+}
+simulateSelect('loginfield_LkdBf');
+}
+initinput_login();
+
+function clearpwd() {
+if(pwdclear) {
+$('password3_LkdBf').value = '';
+}
+pwdclear = 0;
+}
+</script></div></div></div></div>
+</div>
+	</div>
+</div><div  class="ais56wpy"></div></div><div class="ais56d"><div  class="ais56dz"></div><div  class="ais56dc"></div><div  class="ais56dy"></div></div>
+
+
+<script type="text/javascript">var cookieLogin = Ajax("TEXT");cookieLogin.get("connect.php?mod=check&op=cookie", function() {});</script>
+
+<div class="ais56ft"><div id="ft" class="wp cl">
+<div id="flk" style="text-align:center;">
+<p>
+<a href="https://forum.shinybbs.vip/forum.php?mod=viewthread&tid=100426&extra=page%3D1" title="点击查看联系方式" target="_blank"  style="font-weight: bold;">联系我们</a><span class="pipe">|</span><a href="https://forum.shinybbs.vip/forum.php?mod=misc&action=showdarkroom" >小黑屋</a><span class="pipe">|</span><strong><a href="https://forum.shinybbs.vip" target="_blank">深影论坛</a></strong>
+&nbsp;<a href="http://discuz.qq.com/service/security" target="_blank" title="防水墙保卫网站远离侵害"><img src="static/image/common/security.png"></a>&nbsp;<a href="http://addon.discuz.com/?@tongdun.plugin" target="_blank" title="同盾防灌水，杜绝网站不良信息！"><img src="source/plugin/tongdun/tongdun.png" /></a></p>
+<p class="xs0">
+GMT+8, 2021-8-25 21:08<span id="debuginfo">
+, Processed in 0.114303 second(s), 11 queries
+, Gzip On.
+</span>
+</p>
+</div>
+<div id="frt" style="text-align:center;">
+<p>Powered by <strong><a href="http://www.discuz.net" target="_blank">Discuz!</a></strong> <em>X3.2</em></p>
+<p class="xs0">&copy; 2001-2013 <a href="http://www.comsenz.com" target="_blank">Comsenz Inc.</a></p>
+</div></div></div>
+<script src="home.php?mod=misc&ac=sendmail&rand=1629896921" type="text/javascript"></script>
+<div id="scrolltop">
+<span hidefocus="true"><a title="返回顶部" onclick="window.scrollTo('0','0')" class="scrolltopa" ><b>返回顶部</b></a></span>
+</div>
+<script type="text/javascript">_attachEvent(window, 'scroll', function () { showTopLink(); });checkBlind();</script>
+			<div id="discuz_tips" style="display:none;"></div>
+			<script type="text/javascript">
+				var tipsinfo = '9460343|X3.2|0.6||0||0|7|1629896921|ffae027a5cb94aa8f06c69e16bfae418|2';
+			</script>
+			</body>
+</html>
